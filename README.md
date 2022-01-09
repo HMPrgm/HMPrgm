@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HMPrgm
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Software Development an Math
 - 🌱 I’m currently learning Web Development and Machine Learning
 - 📫 How to reach me, https://twitter.com/PrgmHm
 
