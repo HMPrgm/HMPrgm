@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Henry!
 - A high school student from Virginia
-- interested in Software and Web Development 
+- I'm currently interested in Machine Learning and Web Development 
 
 ## 🌱 I’m currently learning
 - Web Development through a course by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
