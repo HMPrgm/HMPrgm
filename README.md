@@ -1,13 +1,15 @@
 ## 👋 Hi, I’m Henry!
-- A high school student from Virginia
+- A university student at the University of Virginia
 - I'm currently interested in Machine Learning and Web Development 
 
+
+
+
+<!---
 ## 🌱 I’m currently learning
 - Web Development through a course by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 - Machine Learning through a course by [the Ligency Team](https://www.udemy.com/course/machinelearning/)
 
-
-<!---
 - 💞️ I’m looking to collaborate on ...
 
 
