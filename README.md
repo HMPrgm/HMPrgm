@@ -1,18 +1,24 @@
 ## 👋 Hi, I’m Henry!
-- A university student at the University of Virginia
-- I'm currently interested in Machine Learning and Web Development 
+- A Computer Science student at the University of Virginia
+
+## 📌 Pinned Repositories
+- A small online Grocery Store I made to learn Angular - [![Groceries Online](https://github.com/HMPrgm/grocery-store-angular)
+- A betting app made during HooHacks 2024 - [![HooBets](https://github.com/HMPrgm/Hoobets)
+- A simple notetaking application using WPF - [![NoteApp](https://github.com/HMPrgm/NoteApp)
 
 
+## 🌱 Learning Journey
+I'm continuously expanding my skill set in various domains, including:
+- Front End Frameworks: React, Angular
+- Machine Learning: Python
+- Computer Graphics: C++
 
+## 💻 Skills
+- **Web Technologies**: HTML, CSS, Javascript, Typescript, Node.js, Angular
+- **Software Engineering**: .NET/C#
+- **Programming Languages**: Javascript, C#, Java, Python
 
-<!---
-## 🌱 I’m currently learning
-- Web Development through a course by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
-- Machine Learning through a course by [the Ligency Team](https://www.udemy.com/course/machinelearning/)
-
-- 💞️ I’m looking to collaborate on ...
-
-
-HMPrgm/HMPrgm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect with Me
+- **Email**: henrymprof@gmail.com
+- **LinkedIn**: [Henry's LinkedIn](https://www.linkedin.com/in/henry-morris-b87361274/)
+<!--- **Portfolio**: [Henry's Portfolio](https://henry-portfolio.com)]-->
