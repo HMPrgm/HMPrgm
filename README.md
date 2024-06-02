@@ -20,5 +20,5 @@ I'm continuously expanding my skill set in various domains, including:
 
 ## 📫 Connect with Me
 - **Email**: henrymprof@gmail.com
-- **LinkedIn**: [Henry's LinkedIn](https://www.linkedin.com/in/henry-morris-b87361274/)
+- [![LinkedIn](https://www.linkedin.com/in/henry-morris-b87361274/)]
 <!--- **Portfolio**: [Henry's Portfolio](https://henry-portfolio.com)]-->
