@@ -2,9 +2,9 @@
 - A Computer Science student at the University of Virginia
 
 ## 📌 Pinned Repositories
-- A small online Grocery Store I made to learn Angular - [![Groceries Online](https://github.com/HMPrgm/grocery-store-angular)
-- A betting app made during HooHacks 2024 - [![HooBets](https://github.com/HMPrgm/Hoobets)
-- A simple notetaking application using WPF - [![NoteApp](https://github.com/HMPrgm/NoteApp)
+- A small online Grocery Store I made to learn Angular - [Groceries Online](https://github.com/HMPrgm/grocery-store-angular)
+- A betting app made during HooHacks 2024 - [HooBets](https://github.com/HMPrgm/Hoobets)
+- A simple notetaking application using WPF - [NoteApp](https://github.com/HMPrgm/NoteApp)
 
 
 ## 🌱 Learning Journey
