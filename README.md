@@ -10,8 +10,8 @@
 ## 🌱 Learning Journey
 I'm continuously expanding my skill set in various domains, including:
 - Front End Frameworks: React, Angular
-- Machine Learning: Python
-- Computer Graphics: C++
+- Machine Learning: Python, Pytorch
+- Computer Graphics: C++, OpenGL
 
 ## 💻 Skills
 - **Web Technologies**: HTML, CSS, Javascript, Typescript, Node.js, Angular
