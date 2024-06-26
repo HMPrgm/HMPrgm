@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Henry!
-- A Computer Science student at the University of Virginia. Check out my portfolio [here!](https://henrymorris.dev)]
+- A Computer Science student at the University of Virginia. Check out my portfolio [here!](https://henrymorris.dev)
 
 ## 📌 Pinned Repositories
 - A small online Grocery Store I made to learn Angular - [Groceries Online](https://github.com/HMPrgm/grocery-store-angular)
