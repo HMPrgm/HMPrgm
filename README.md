@@ -19,4 +19,4 @@ I'm continuously expanding my skill set in various domains, including:
 
 ## 📫 Connect with Me
 - **Email**: henrymprof@gmail.com
-- **Portfolio**: [henrymorris.dev](https://henrymorris.dev)]
+- **Portfolio**: [henrymorris.dev](https://henrymorris.dev)
