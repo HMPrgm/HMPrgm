@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Henry!
-- A Computer Science student at the University of Virginia
+- A Computer Science student at the University of Virginia. Check out my portfolio [here!](https://henrymorris.dev)]
 
 ## 📌 Pinned Repositories
 - A small online Grocery Store I made to learn Angular - [Groceries Online](https://github.com/HMPrgm/grocery-store-angular)
@@ -11,7 +11,6 @@
 I'm continuously expanding my skill set in various domains, including:
 - Front End Frameworks: React, Angular
 - Machine Learning: Python, Pytorch
-- Computer Graphics: C++, OpenGL
 
 ## 💻 Skills
 - **Web Technologies**: HTML, CSS, Javascript, Typescript, Node.js, Angular
@@ -20,4 +19,4 @@ I'm continuously expanding my skill set in various domains, including:
 
 ## 📫 Connect with Me
 - **Email**: henrymprof@gmail.com
-<!--- **Portfolio**: [Henry's Portfolio](https://henry-portfolio.com)]-->
+- **Portfolio**: [henrymorris.dev](https://henrymorris.dev)]
