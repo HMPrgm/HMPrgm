@@ -8,7 +8,8 @@
 
 ## 🌱 Learning Journey
 I'm continuously expanding my skill set in various domains, including:
-- Front End Frameworks: React, Angular, Next.js
+- Web Development: ASP.NET, PostgreSQL
+- Game Development: C++, SDL2
 - Machine Learning: Python, Pytorch
 
 ## 💻 Skills
