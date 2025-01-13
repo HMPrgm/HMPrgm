@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Henry!
-- A Computer Science student at the University of Virginia. Check out my portfolio [here!](https://henrymorris.dev)
+- A Computer Science and Mathematics student at the University of Virginia. Check out my portfolio [here!](https://henrymorris.dev)
 
 ## 📌 Pinned Repositories
 - A Todo-List, Calendar, and Habit Tracker all in one - [LifeTracker](https://github.com/HMPrgm/life-tracker)
@@ -8,16 +8,16 @@
 
 ## 🌱 Learning Journey
 I'm continuously expanding my skill set in various domains, including:
-- Web Development: ASP.NET, PostgreSQL
-- Game Development: C++, SDL2
+- Web Development: Golang, PostgreSQL
 - Machine Learning: Python, Pytorch
 
 ## 💻 Skills
-- **Front-End Web Technologies**: HTML/CSS, Tailwind, Angular, React, Next.js
-- **Back-End Web Technologies**: Node.js, MongoDB
-- **Software Engineering**: .NET/C#
-- **Programming Languages**: Javascript, Typescript, C#, Java, Python
+- **Programming Languages**: Java, C, C#, Python, Javascript, Typescript, Kotlin, Matlab, Go.
+- **Frontend Technologies**: HTML, CSS, React.js, Angular, Next.js, Tailwind, Bootstrap.
+- **Backend and Databases**: Express.js, Node.js, MongoDB, SQL, SQLite.
+- **Other**: Git, Github, PyTorch, Linux, .NET, JSON.
+
 
 ## 📫 Connect with Me
-- **Email**: henrymprof@gmail.com
+- **Email**: yfm3bn@virginia.edu
 - **Portfolio**: [henrymorris.dev](https://henrymorris.dev)
