@@ -8,8 +8,9 @@
 
 ## 🌱 Learning Journey
 I'm continuously expanding my skill set in various domains, including:
-- Web Development: Golang, PostgreSQL
-- Machine Learning: Python, Pytorch
+- Backend Development: Golang, PostgreSQL, AWS
+- Computer Vision: PyTorch
+- Reinforcement Learning: [Introduction by Sutton and Barto](http://incompleteideas.net/book/RLbook2020.pdf)
 
 ## 💻 Skills
 - **Programming Languages**: Java, C, C#, Python, Javascript, Typescript, Kotlin, Matlab, Go.
