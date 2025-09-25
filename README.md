@@ -9,7 +9,7 @@
 ## 🌱 Learning Journey
 I'm continuously expanding my skill set in various domains, including:
 - Technologies: C++, Svelte, Google Cloud
-- Graph Theory: [Graphs, Networks, and Algorithms](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Graphs%2C%20Networks%20and%20Algorithms%20%284th%20ed.%29%20%5BJungnickel%202012-11-09%5D.pdf)
+- Distributed Systems: [Distributed Systems by Van Steen and Tanenbaum](https://www.distributed-systems.net/index.php/books/ds4/)
 - Optimization: [Linear and Nonlinear Optimization](https://students.aiu.edu/submissions/profiles/resources/onlineBook/E4b4u8_Linear_and_Nonlinear_Optimization-_2nd_ebook.pdf)
 - Database Engineering: [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
 
