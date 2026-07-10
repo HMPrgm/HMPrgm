@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Henry!
-- A Computer Science and Mathematics student at the University of Virginia. Check out my portfolio [here!](https://henrymorris.dev)
+- A Computer Science student at KU Leuven. Check out my portfolio [here!](https://henrymorris.dev)
 
 ## 📌 Pinned Repositories
 - An Express and React language learnign app that uses comprehensible input to teach - [Lingo](https://github.com/HMPrgm/lingo)
@@ -24,6 +24,6 @@ I'm continuously expanding my skill set in various domains, including:
 - **Language Learning**: Learning German right now (Around A1 level) and A2 in Spanish.
 
 ## 📫 Connect with Me
-- **Email**: yfm3bn@virginia.edu
+- **Email**: henrymprof@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/henry-morris-b87361274/](https://www.linkedin.com/in/henry-morris-b87361274/)
 - **Portfolio**: [henrymorris.dev](https://henrymorris.dev)
