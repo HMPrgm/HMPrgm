@@ -2,15 +2,12 @@
 - A Computer Science student at KU Leuven. Check out my portfolio [here!](https://henrymorris.dev)
 
 ## 📌 Pinned Repositories
-- An Express and React language learnign app that uses comprehensible input to teach - [Lingo](https://github.com/HMPrgm/lingo)
-- A C++ Graph Database system - [OctoDB](https://github.com/HMPrgm/octo-db)
-- A Go and Svelte app that tracks expenses and budgets - [Financial Planner](https://github.com/HMPrgm/financial-planner)
+- A Go and React language learnign app that uses comprehensible input to teach - [Sapling Dutch](https://github.com/HMPrgm/sapling)
 
 ## 🌱 Learning Journey
-I'm continuously expanding my skill set in various domains, including:
-- Technologies: C++, Svelte, Google Cloud
+I'm continuously expanding my skill set in various domains, currently:
+- Technologies: Cloud Computing, Software Security, Big Data Engineering
 - Distributed Systems: [Distributed Systems by Van Steen and Tanenbaum](https://www.distributed-systems.net/index.php/books/ds4/)
-- Optimization: [Linear and Nonlinear Optimization](https://students.aiu.edu/submissions/profiles/resources/onlineBook/E4b4u8_Linear_and_Nonlinear_Optimization-_2nd_ebook.pdf)
 - Database Engineering: [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
 
 ## 💻 Skills
@@ -21,7 +18,7 @@ I'm continuously expanding my skill set in various domains, including:
 
 ## 🌍 Non-SWE Intrests
 - **Video Production**: Avid user of the Adobe Creative Cloud to produce videos and producer for two podcasts.
-- **Language Learning**: Learning German right now (Around A1 level) and A2 in Spanish.
+- **Language Learning**: Learning Dutch right now (Around B1 level) and some conversational ability in German and Spanish.
 
 ## 📫 Connect with Me
 - **Email**: henrymprof@gmail.com
